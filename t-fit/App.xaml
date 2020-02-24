@@ -1,0 +1,9 @@
+﻿<Application x:Class="t_fit.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:t_fit"
+             StartupUri="Views\TFit.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
